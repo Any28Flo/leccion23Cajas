@@ -1,0 +1,53 @@
+.cuadro{
+  width: 70px;
+  height: 70px;
+  border: solid 1px black;
+}
+.rectangulo{
+  width: 290px;
+  height: 100px;
+  border: solid 1px black;
+  display: block;
+}
+#filaUno{
+  display: block;
+  background: #2E64FE;
+  margin-top: 10px;
+  margin-left: 10px;
+}
+#filaDos{
+  margin-top: 10px;
+  margin-left: 10px;
+}
+
+#columnaUno{
+  display: inline-block;
+  margin-left: 20px;
+  margin-top: 5px;
+  background-color: #FA58AC;
+}
+#columnaDos{
+  display: inline-block;
+  background-color: #FFFF00;
+  margin-left: 10px;
+}
+#columnaTres{
+  display: inline-block;
+  background-color: #2EFEF7;
+  margin-left: 10px;
+  margin-top: 5px;
+}
+#contenedor{
+  display: block;
+  margin-left: 10px;
+}
+#filaTres{
+  margin-left: 10px;
+  display: inline-block;
+  background-color: #FF0040;
+}
+#filaTresColumnaUno{
+  background-color: #01DF01;
+  display: inline-block;
+  margin-left: 10px;
+}
